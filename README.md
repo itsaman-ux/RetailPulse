@@ -81,3 +81,8 @@ The five main dashboard sections have been tested locally. Team collaboration, f
 ## 🔗 Repository
 
 https://github.com/itsaman-ux/RetailPulse
+## 🚀 Live Demo
+
+**RetailPulse Dashboard:** https://retailpulse-aman.streamlit.app/
+
+Explore customer analytics, churn analysis, demand forecasting, and inventory optimization through our interactive Streamlit dashboard.
